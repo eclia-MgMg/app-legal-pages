@@ -27,6 +27,12 @@ permalink: /photo-ledger/support/
 - PDF、Excel、台帳ファイル等の共有先での取扱いは、各共有先サービスの規約およびプライバシーポリシーに従います。
 - Proの購入、更新、解約、返金はApple IDおよびApp Storeの仕組みにより管理されます。
 
+## 特定商取引法に基づく表示事項の開示請求
+
+所在地および電話番号の開示を希望する場合は、[特定商取引法に基づく表記]({{ '/photo-ledger/specified-commercial-transactions/' | relative_url }})の案内に従って連絡してください。
+
+円滑な確認のため、可能であれば本アプリ内の「プラン」画面に表示される開示請求コードを記載してください。開示請求コードの記載がない場合でも、対象アプリ名および請求内容を確認のうえ対応します。
+
 ## 関連ページ
 
 - [プライバシーポリシー]({{ '/photo-ledger/privacy-policy/' | relative_url }})
