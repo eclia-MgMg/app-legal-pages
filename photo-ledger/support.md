@@ -12,7 +12,7 @@ permalink: /photo-ledger/support/
 
 メールアドレス: mgmg.apps@gmail.com
 
-問い合わせの際は、可能な範囲で次の内容を書いてください。
+問い合わせの際は、可能な範囲で次の内容をご記載ください。
 
 - 利用している端末名
 - iOSのバージョン
@@ -29,7 +29,7 @@ permalink: /photo-ledger/support/
 
 ## 特定商取引法に基づく表示事項の開示請求
 
-所在地および電話番号の開示を希望する場合は、[特定商取引法に基づく表記]({{ '/photo-ledger/specified-commercial-transactions/' | relative_url }})の案内に従って連絡してください。
+所在地および電話番号の開示を希望する場合は、[特定商取引法に基づく表記]({{ '/photo-ledger/specified-commercial-transactions/' | relative_url }})の案内に従ってご連絡ください。
 
 円滑な手続きのため、本アプリ内の「プラン」画面に表示される開示請求コードのメール本文への記載にご協力ください。開示請求コードの記載がない場合でも、対象アプリ名および請求内容を確認のうえ対応します。
 
