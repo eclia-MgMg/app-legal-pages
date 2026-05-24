@@ -1,7 +1,6 @@
-title: MgMg Apps Legal Pages
-description: Legal pages for MgMg apps.
+title: MgMg Apps 法務ページ
+description: MgMg Appsの法務ページです。
 lang: ja
 theme: jekyll-theme-minimal
 baseurl: /app-legal-pages
 markdown: kramdown
-
