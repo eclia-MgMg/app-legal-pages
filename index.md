@@ -11,3 +11,4 @@ permalink: /
 ## アプリ一覧
 
 - [写真台帳]({{ '/photo-ledger/' | relative_url }})
+- [どれトク！]({{ '/dore-toku/' | relative_url }})
